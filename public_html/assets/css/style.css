@@ -1,0 +1,25 @@
+.right-column {
+    background: #c8c8c8;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+#form-response {
+    display: none;
+}
+
+.navbar-header {
+    background: #c3c3c3;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    padding: 15px;
+    text-align: center;
+}
+
+.left-column {
+    padding: 15px;
+}
+
